@@ -1,3 +1,5 @@
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/df6cac6f-b494-45e3-9b0e-249f1f9e0f01" />
+
 # xStocksEDU 📈
 **Decentralized Web3 Education Platform for Tokenized U.S. Stocks on Solana**
 
