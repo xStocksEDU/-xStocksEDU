@@ -78,3 +78,21 @@ We welcome developers, educators, and content creators to join the mission.
 git clone https://github.com/your-org/xStocksEDU.git
 cd xStocksEDU
 npm install
+
+🤝 Partnerships
+🎯 Solana Ecosystem: Serum, Raydium, Saber
+
+👜 Wallets: Phantom, Solflare
+
+🔗 Oracles: Chainlink
+
+🏦 Institutions: Financial educators, brokerages
+
+⚖️ License
+MIT License.
+We are committed to open-source education and transparent collaboration.
+
+❤️ Long-Term Vision
+To become the global standard for tokenized asset education, driving adoption of RWAs, improving financial literacy, and bridging traditional finance with Web3.
+
+
